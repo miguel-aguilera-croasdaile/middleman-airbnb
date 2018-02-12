@@ -1,0 +1,52 @@
+.flat-info{
+  display: flex;
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  justify-content:space-around;
+}
+.owner{
+  padding: 10px;
+  height: 200px;
+  position: relative;
+  border-radius: 10px;
+}
+
+.owner-name{
+  border-radius: 10px;
+  text-align: center;
+}
+
+#flat_booker{
+  border-radius: 10px;
+  background-color: #F4F4F4;
+}
+
+.flat-desc{
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  width: auto;
+}
+
+.flat-desc h3{
+  padding-top: 5px;
+  margin-top: 5px;
+
+}
+
+.img-circle{
+  border: 10px solid #F4F4F4;
+}
+
+.btn-danger{
+  -moz-transition: all .2s ease-in;
+  -o-transition: all .2s ease-in;
+  -webkit-transition: all .2s ease-in;
+  transition: all .2s ease-in;
+  background: #c3413b;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+

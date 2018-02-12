@@ -20,3 +20,19 @@
   opacity: 0.6;
   margin-bottom: 30px;
 }
+
+.btn-primary{
+  background-color: #efb94a;
+  padding: 20px;
+  margin: 20px;
+  font-weight: bolder;
+  border-radius: 10px;
+  -webkit-transition: background-color 150ms linear;
+  -ms-transition: background-color 150ms linear;
+  transition: background-color 150ms linear;
+}
+
+.btn-primary:hover{
+  background-color: #ba913f;
+  text-decoration: none;
+}
