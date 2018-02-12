@@ -1,0 +1,39 @@
+.img-circle{
+  width: 150px;
+  h3 {
+    font-size: 10px;
+  }
+}
+
+.home{
+  background-color: #fafafa;
+  height: auto;
+  padding: 50px;
+  margin: 50px;
+}
+
+.about{
+  margin: auto;
+}
+
+.title_page{
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.team-member{
+  display:flex;
+  width: 200px;
+  margin: 0px;
+  height: auto;
+}
+
+.github_link {
+  color: gray;
+}
+
+.github_link:hover{
+  color: #C3413B;
+  text-decoration: none;
+}
